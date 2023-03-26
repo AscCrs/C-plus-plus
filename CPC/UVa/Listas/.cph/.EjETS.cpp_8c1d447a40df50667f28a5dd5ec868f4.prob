@@ -1,0 +1,1 @@
+{"name":"Local: EjETS","url":"c:\\Users\\crist\\Documents\\c++\\ejercicios_c\\Listas\\EjETS.cpp","tests":[{"id":1673745924379,"input":"3\n2 4 1\n1 5 2\n1 4 3\n3\n1 2 1\n1 2 2\n1 2 3\n0","output":"18\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\crist\\Documents\\c++\\ejercicios_c\\Listas\\EjETS.cpp","group":"local","local":true}
